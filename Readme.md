@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilj007&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilj007" /> </p>
 
